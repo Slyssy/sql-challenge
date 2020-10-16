@@ -1,3 +1,12 @@
+# Inside this "Employe_SQL" folder you will find the following items...
+* Query Results Folder: This contains the csv files I created as a result to the query used to answer the homework questions.
+* Resources Folder: Contains the csv files used to create the tables in the database.
+* ERD.pdf: This is a PDF of the ERD I created to help visualize the connections between all of the tables.
+* SQL_Queries.sql: This file shows the SQL code I wrote for each of the homework questions.
+* Table_Creation_and Schemas.sql: This file displays the schema I used to create the tables.
+
+__________________________________________________________________________
+
 # sql-challenge
 SQL Homework Assignment
 
